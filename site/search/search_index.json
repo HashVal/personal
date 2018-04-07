@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Yifan's garden\n\n\nHere stores my personal thoughts and articles. The name 'Yifan's garden' is from a record movie called \nLe jardin de Celibidache\n. That movie focused on \nSergiu Celibidache\n, which is my favourite conductor.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#yifans-garden", 
+            "text": "Here stores my personal thoughts and articles. The name 'Yifan's garden' is from a record movie called  Le jardin de Celibidache . That movie focused on  Sergiu Celibidache , which is my favourite conductor.", 
+            "title": "Yifan's garden"
+        }
+    ]
+}

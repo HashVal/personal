@@ -1,0 +1,9 @@
+site_name: Yifan's Garden
+site_description: Yifan's Garden
+site_url: http://garden.yifanli.me
+
+theme:
+  name: 'material'
+
+pages:
+    - Home: 'index.md'
