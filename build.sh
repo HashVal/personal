@@ -8,6 +8,6 @@ echo "mkdocs build --clean"
 mkdocs build --clean
 
 cat > site/CNAME <<EOF
-notes.yifanli.me
+garden.yifanli.me
 EOF
 
